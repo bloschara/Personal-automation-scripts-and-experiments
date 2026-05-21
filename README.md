@@ -1,2 +1,10 @@
-# Personal-automation-scripts-and-experiments
-Personal automation scripts and experiments
+# Python Automation Notes
+
+Learning Python automation and AI workflows.
+
+## Topics
+
+- Selenium
+- Playwright
+- API automation
+- AI coding tools
